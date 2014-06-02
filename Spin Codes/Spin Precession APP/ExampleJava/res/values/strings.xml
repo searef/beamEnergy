@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Total Spin Precession Calculator</string>
+    <string name="action_settings">k</string>
+    <string name="edit_message">Injector Energy</string>
+    <string name="edit_message2">N Linac Energy</string>
+    <string name="edit_message3">S Linac Energy</string>
+    <string name="edit_message4">Wien Angle</string>
+    <string name="button_send1">Precessions at each bend</string>
+    <string name="button_send2">Total Spin Precession Table</string>
+    <string name="button_send3">Total Spin Precession Hall C</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dynamic_string">Hello</string>
+    <string name="title_activity_display_message">Table of Calculations</string>
+    <string name="NewApi">NewApi</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
