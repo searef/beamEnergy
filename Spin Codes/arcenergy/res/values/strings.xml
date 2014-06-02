@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arc Beam Energy Calculator</string>
+    <string name="action_settings">k</string>
+    <string name="edit_message">B*dl for One Magnet</string>
+    <string name="edit_message2">Beam Angle</string>
+    <string name="button_send">Calculate Beam Energy</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">Calculations</string>
+    <string name="NewApi">NewApi</string>
+
+</resources>
