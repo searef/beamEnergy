@@ -1,4 +1,4 @@
 beamEnergy
 ==========
 
-Codes for calculating spin precession using an android application.
+Codes for calculating electron spin precession in CEBAF using an android application.
